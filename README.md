@@ -10,7 +10,7 @@ Steve's parents wanted to in DAQO, so they came to him to do the analysis in ord
 ### Data 
 The original all stock analysis 2017 took 0.5429688 seconds and the 2018 took 0.5351562 seconds. The refactored all stock analysis 2017 toook 0.1132812 seconds and the 2018 took 0.1171875 seconds. The refactored analysis was 5 times faster at analyzing the stock market.
 
-### Timer Data
+*Timer Data*
 All Stocks Analysis 2017
 <img width="424" alt="All Stocks Analysis 2017 - Timer Data" src="https://user-images.githubusercontent.com/68453460/92334782-0aaeab00-f05f-11ea-92ea-c74bcd822f09.png">
 
@@ -25,7 +25,7 @@ All Stocks Analysis Refactored 2018
 
 The DQ stock that Steve's parents want to invest had a negative return in 2018, however had a positive return in 2017. Over both years, it would have a positive return of 136%. The stock performance shows  ENPH and RUN stock had a postive return in both 2017 and 2018.In 2018, all stocks had a decreased rate of return compared to 2017. 
 
-## Stock Market Performance
+*Stock Market Performance*
 2017 All Stocks Analysis 
 <img width="267" alt="All Stocks Analysis Refactored 2017" src="https://user-images.githubusercontent.com/68453460/92334806-3cc00d00-f05f-11ea-9a14-512c55f9f8fb.png">
 
